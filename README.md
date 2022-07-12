@@ -25,19 +25,19 @@ com métodos que atendem aos seguintes requisitos:
 # Tecnologias utilizadas
 - Java
 - Git
-- Springboot
-- Maven
-- Spring Tool Suite
+- Eclipse
 - MySQL
+- JPA
+- Hibernate
 # Como executar o projeto
 
 Pré-requisitos: Java 11, Eclipse
 
 ```bash
 # clonar repositório
-git clone https://github.com/Bakemono7K/course-springboot-java
+git clone https://github.com/Bakemono7K/Teste-Iniflex
 
-# executar o projeto no Spring Tool Suite
+# executar o projeto no Eclipse
 ```
 
 # Autor
